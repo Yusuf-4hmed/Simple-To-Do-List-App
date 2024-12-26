@@ -7,7 +7,7 @@
   </p>
 </div>
 
-<a href="https://yusuf-4hmed.github.io/Simple-Weather-App/">Project Link</a>
+<a href="https://yusuf-4hmed.github.io/Simple-To-Do-List-App/">Project Link</a>
 
 This project was built alongside a tutorial just as a way for me to improve my JavaScript skills, but we all know that blindly following tutorials isn't the most effective way to learn 🙂
 
